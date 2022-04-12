@@ -9,4 +9,4 @@ onnx_unet_seg：onnx模型、测试图像、测试结果、测试demo脚本
 
 tensorRT_unet_seg：TensorRT版本模型、测试图像、测试结果、测试demo脚本、onnx模型、onnx2tensorRT脚本(tensorRT-7.2.3.4)
 
-![image](https://github.com/cqu20160901/DeepLabV3_pytorch_onnx_tensorRT/blob/main/pytorch_deeplabV3_seg/test.jpg)
+![image](https://github.com/cqu20160901/DeepLabV3_pytorch_onnx_tensorRT/blob/main/pytorch_deeplabV3_seg/test_result_pytorch.jpg)
